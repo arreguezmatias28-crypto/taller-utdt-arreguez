@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "arreguezmatias28-crypto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269570112?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "arreguezmatias28-crypto",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:50.355Z",
-    "updated_at": "2026-03-19T21:28:50.355Z"
-  }
+    "updated_at": "2026-03-19T21:28:50.355Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "920b0c7f-997e-4969-b137-df8738aa3dfb": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:50.411Z",
+      "created_by": "arreguezmatias28-crypto",
+      "title": "Taller AVAnnote UTDT",
+      "updated_at": "2026-03-19T21:28:50.411Z",
+      "updated_by": "arreguezmatias28-crypto",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "920b0c7f-997e-4969-b137-df8738aa3dfb"
+  ]
 }
